@@ -1,0 +1,74 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+h2#bio {
+  margin-top: 1em
+}
+
+.bio {
+  padding-right: 100px;
+}
+
+.author__avatar img { 
+  border-radius: 0%; 
+  max-width: 200px; 
+  border: 0;
+} 
+
+.site-title {
+  font-size: 30px;
+}
+
+.sidebar.sticky {
+  padding-left: 10px;
+  opacity: 1;
+}
+
+.publications {
+  font-size: 0.75em;
+}
+
+.badge {
+  font-size: 0.9em;
+  color: #fff;
+  border-radius: .25rem;
+  padding: .1em .2em;
+}
+
+.thesis {
+  background-color: #f39c12;
+}
+
+.conference {
+  background-color: #17a2b8;
+}
+
+.journal {
+  background-color: #28a745;
+}
+
+.conference-presentation {
+  background-color: #6c757d;
+}
+
+.workshop-paper {
+  background-color: #bc67d6;
+}
+
+.demo {
+  background-color: #ff8080;
+}
+
+.whitepaper {
+  background-color: #52585e;
+}
+
+hr {
+  border-top: 2px solid #ccc;
+}
