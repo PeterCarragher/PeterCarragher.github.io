@@ -11,4 +11,5 @@ url: publications2.html
 * [Carragher, Ng, and Carley: Simulation of Stance Perturbation](https://informs-sim.org/wsc22papers/265.pdf)
 Peter Carragher, Lynnette Xian Ng, Kathleen M. Carley
 *Proceedings of the 2022 Winter Simulation Conference*. 2022.
-[pdf]() &middot; [slides]()
+[pdf](https://informs-sim.org/wsc22papers/265.pdf) 
+<!-- &middot; [slides]() -->
