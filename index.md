@@ -21,7 +21,7 @@ I research within the fields of computational social science, computational ling
 **Simulation of Stance Perturbation**  
 Peter Carragher, Lynnette Xian Ng, Kathleen M. Carley  
 *WSC 2022: Proceedings of the 2022 Winter Simulation Conference*. 2022.
-<span class="badge demo">demo</span> [abstract]()
+<span class="badge demo">demo</span> [abstract](https://informs-sim.org/wsc22papers/265.pdf)
 <hr>
 
 </div>
