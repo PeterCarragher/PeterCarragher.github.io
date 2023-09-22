@@ -19,9 +19,10 @@ My work combines methods from natural language processing, network science, and 
 
 **Simulation of Stance Perturbation**  
 Peter Carragher, Lynnette Xian Ng, Kathleen M. Carley  
-*SBP-BRiMS 2023: 16th International Conference on Social Computing, Behavioral-Cultural Modeling, & Prediction and Behavior Representation in Modeling and Simulation*. 2023.  
-<span class="badge conference">conference paper</span> [preprint](https://arxiv.org/pdf/2307.08511.pdf)
+*SBP-BRiMS 2023: International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation*. 2023.
+<span class="badge conference">conference paper</span> [pdf] (https://link.springer.com/chapter/10.1007/978-3-031-43129-6_16) . [slides] (https://docs.google.com/presentation/d/1ICLYORWluCyLCzkEUmTQecqk6z5iJnSJ/edit?usp=sharing&ouid=108042404470240135917&rtpof=true&sd=true)
 <hr>
+
 
 **Simulation of Stance Perturbation**  
 Peter Carragher, Lynnette Xian Ng, Kathleen M. Carley  
