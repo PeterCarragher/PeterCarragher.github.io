@@ -20,13 +20,13 @@ My research primarily focuses on developing search-based interventions, assessin
 **Detection and Discovery of Misinformation Sources using Attributed Webgraphs**  
 Peter Carragher, Evan M. Williams, Kathleen M. Carley  
 *Upcoming at ICWSM 2024: The 18th International AAAI Conference on Web and Social Media*. 2024.
-<span class="badge conference">conference paper</span> [pdf] (https://arxiv.org/pdf/2401.02379.pdf)
+<span class="badge conference">conference paper</span> [pdf](https://arxiv.org/pdf/2401.02379.pdf)
 <hr>
 
 **Simulation of Stance Perturbation**  
 Peter Carragher, Lynnette Xian Ng, Kathleen M. Carley  
 *SBP-BRiMS 2023: International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation*. 2023.
-<span class="badge conference">conference paper</span> [pdf] (https://link.springer.com/chapter/10.1007/978-3-031-43129-6_16) . [slides] (https://docs.google.com/presentation/d/1ICLYORWluCyLCzkEUmTQecqk6z5iJnSJ/edit?usp=sharing&ouid=108042404470240135917&rtpof=true&sd=true)
+<span class="badge conference">conference paper</span> [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43129-6_16) . [slides](https://docs.google.com/presentation/d/1ICLYORWluCyLCzkEUmTQecqk6z5iJnSJ/edit?usp=sharing&ouid=108042404470240135917&rtpof=true&sd=true)
 <hr>
 
 
