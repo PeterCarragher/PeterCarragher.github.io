@@ -10,12 +10,18 @@ title:
 {: .bio}
 I’m a PhD student at the <a href='http://www.casos.cs.cmu.edu/' target='_blank'> Center for Computational Analysis of Social and Organizational Systems </a> and <a href='https://www.cmu.edu/ideas-social-cybersecurity/' target='_blank'>IDeaS Center</a> at Carnegie Mellon University, advised by <a href='http://www.casos.cs.cmu.edu/bios/carley/carley.html' target='_blank'>Dr. Kathleen M. Carley</a> and <a href='https://patpark.org/' target='_blank'>Dr. Patrick Park</a>.
 
-My work combines methods from natural language processing, network science, and machine learning with theories from the social sciences. I research within the fields of computational social science, computational linguistics, and digital humanities.
+My research primarily focuses on developing search-based interventions, assessing source credibility in online news media, and modeling social influence processes in social media. Utilizing an interdisciplinary approach, I integrate techniques from natural language processing, network science, and machine learning with theories from social sciences. My work lies at the intersection of computational social science, computational linguistics, and digital humanities, aiming to enhance the reliability of online information.
 
 ## Publications
 {: #publications}
 
 <div class="publications">
+
+**Detection and Discovery of Misinformation Sources using Attributed Webgraphs**  
+Peter Carragher, Evan M. Williams, Kathleen M. Carley  
+*Upcoming at ICWSM 2024: The 18th International AAAI Conference on Web and Social Media*. 2024.
+<span class="badge conference">conference paper</span> [pdf] (https://arxiv.org/pdf/2401.02379.pdf)
+<hr>
 
 **Simulation of Stance Perturbation**  
 Peter Carragher, Lynnette Xian Ng, Kathleen M. Carley  
