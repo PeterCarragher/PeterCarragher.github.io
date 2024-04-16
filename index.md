@@ -8,7 +8,7 @@ title:
 ---
 {::options parse_block_html="true" /}
 {: .bio}
-I’m a PhD student at the <a href='http://www.casos.cs.cmu.edu/' target='_blank'> Center for Computational Analysis of Social and Organizational Systems </a> and <a href='https://www.cmu.edu/ideas-social-cybersecurity/' target='_blank'>IDeaS Center</a> at Carnegie Mellon University, advised by <a href='http://www.casos.cs.cmu.edu/bios/carley/carley.html' target='_blank'>Dr. Kathleen M. Carley</a> and <a href='https://patpark.org/' target='_blank'>Dr. Patrick Park</a>.
+I’m a PhD student at the <a href='http://www.casos.cs.cmu.edu/' target='_blank'> Center for Computational Analysis of Social and Organizational Systems (CASOS) </a> and <a href='https://www.cmu.edu/ideas-social-cybersecurity/' target='_blank'>Center for Informed Democracy & Social - cybersecurity (IDeaS)</a> at Carnegie Mellon University, advised by <a href='http://www.casos.cs.cmu.edu/bios/carley/carley.html' target='_blank'>Dr. Kathleen M. Carley</a> and <a href='https://patpark.org/' target='_blank'>Dr. Patrick Park</a>.
 
 My research primarily focuses on developing search-based interventions, assessing source credibility in online news media, and modeling social influence processes in social media. Utilizing an interdisciplinary approach, I integrate techniques from network science and machine learning with theories from social and information sciences. I use these methods to study information diffusion and retrieval systems, with the aim of enhancing the reliability of the online information ecosystem.
 
