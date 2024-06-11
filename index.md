@@ -21,16 +21,16 @@ In the past I was lucky to be supervised by Dr. Ashok Goel in the <a href='https
 
 **Misinformation Resilient Search Rankings with Webgraph-based Interventions**  
 Peter Carragher, Evan M. Williams, Kathleen M. Carley  
-*Submitted to ACM Transactions on Intelligent Systems and Technology: Special Issue on Responsible Recommender Systems*. 2024.
+*ACM Transactions on Intelligent Systems and Technology: Special Issue on Responsible Recommender Systems*. 2024.
 <br>
-<span class="badge journal">journal article</span> [pdf](https://arxiv.org/pdf/2404.08869.pdf) . [code](https://github.com/CASOS-IDeaS-CMU/Misinformation-Resilient-Search-Rankings) . [data](https://doi.org/10.1184/R1/25174193.v1) . [slides](https://docs.google.com/presentation/d/1VaJsH3iGGziz-UjaICKZpnh-rpAOiA3i98vuOZY_fEQ/edit?usp=sharing)
+<span class="badge journal">journal article</span> [pdf](https://dl.acm.org/doi/10.1145/3670410) . [code](https://github.com/CASOS-IDeaS-CMU/Misinformation-Resilient-Search-Rankings) . [data](https://doi.org/10.1184/R1/25174193.v1) . [slides](https://docs.google.com/presentation/d/1VaJsH3iGGziz-UjaICKZpnh-rpAOiA3i98vuOZY_fEQ/edit?usp=sharing)
 <hr>
 
 **Detection and Discovery of Misinformation Sources using Attributed Webgraphs**  
 Peter Carragher, Evan M. Williams, Kathleen M. Carley  
-*Upcoming at ICWSM 2024: The 18th International AAAI Conference on Web and Social Media*. 2024.
+*ICWSM 2024: The 18th International AAAI Conference on Web and Social Media*. 2024.
 <br>
-<span class="badge conference">conference paper</span> [pdf](https://arxiv.org/pdf/2401.02379.pdf) . [code](https://github.com/CASOS-IDeaS-CMU/Detection-and-Discovery-of-Misinformation-Sources/) . [data](https://doi.org/10.1184/R1/25174193.v1) . [slides](https://docs.google.com/presentation/d/1zCfcoCZlwa057MOSo5XTbsUA-ad1q7alWgjhXAZW4IQ/edit?usp=sharing)
+<span class="badge conference">conference paper</span> [pdf](https://doi.org/10.1609/icwsm.v18i1.31309) . [code](https://github.com/CASOS-IDeaS-CMU/Detection-and-Discovery-of-Misinformation-Sources/) . [data](https://doi.org/10.1184/R1/25174193.v1) . [slides](https://docs.google.com/presentation/d/1zCfcoCZlwa057MOSo5XTbsUA-ad1q7alWgjhXAZW4IQ/edit?usp=sharing)
 <hr>
 
 **Simulation of Stance Perturbation**  
