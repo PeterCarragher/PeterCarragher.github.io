@@ -19,6 +19,27 @@ In the past I was lucky to be supervised by Dr. Ashok Goel in the <a href='https
 
 <div class="publications">
 
+**KOALA: Knowledge Conflict Augmentations for Robustness in Vision Language Models** [PREPRINT]  
+Peter Carragher, Nikitha Rao, Abhinand Jha, R Raghav, Kathleen M. Carley  
+*Under review*. 2025.
+<br>
+<span class="badge preprint">preprint</span> [pdf](https://arxiv.org/abs/2502.14908) . [code](https://github.com/CASOS-IDeaS-CMU/KOALA) . [data](https://www.doi.org/10.1184/R1/28297076)
+<hr>
+
+**Quantifying Memorization and Retriever Performance in Retrieval-Augmented Vision-Language Models** [PREPRINT]  
+Peter Carragher, Abhinand Jha, R Raghav, Kathleen M. Carley  
+*Under review*. 2025.
+<br>
+<span class="badge preprint">preprint</span> [pdf](https://arxiv.org/abs/2502.13836)
+<hr>
+
+**Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains** [PREPRINT]  
+Evan M. Williams, Peter Carragher, Kathleen M. Carley  
+*Under review*. 2024.
+<br>
+<span class="badge preprint">preprint</span> [pdf](https://arxiv.org/abs/2406.11423)
+<hr>
+
 **Detection and Discovery of Misinformation Sources using Attributed Webgraphs**  
 Peter Carragher, Evan M. Williams, Kathleen M. Carley  
 *ICWSM 2024: The 18th International AAAI Conference on Web and Social Media*. 2024.
