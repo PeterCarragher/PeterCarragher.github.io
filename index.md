@@ -44,7 +44,7 @@ Evan M. Williams, Peter Carragher, Kathleen M. Carley
 Peter Carragher, Evan M. Williams, Kathleen M. Carley  
 *ICWSM 2024: The 18th International AAAI Conference on Web and Social Media*. 2024.
 <br>
-<span class="badge conference">conference paper</span> [pdf](https://doi.org/10.1609/icwsm.v18i1.31309) . [code](https://github.com/CASOS-IDeaS-CMU/Detection-and-Discovery-of-Misinformation-Sources/) . [data](https://doi.org/10.1184/R1/25174193.v1) . [data](https://doi.org/10.1184/R1/25174193.v1) . [slides](https://docs.google.com/presentation/d/1zCfcoCZlwa057MOSo5XTbsUA-ad1q7alWgjhXAZW4IQ/edit?usp=sharing)
+<span class="badge conference">conference paper</span> [pdf](https://doi.org/10.1609/icwsm.v18i1.31309) . [code](https://github.com/CASOS-IDeaS-CMU/Detection-and-Discovery-of-Misinformation-Sources/) . [data](https://doi.org/10.1184/R1/25174193.v1) . [slides](https://docs.google.com/presentation/d/1zCfcoCZlwa057MOSo5XTbsUA-ad1q7alWgjhXAZW4IQ/edit?usp=sharing)
 <hr>
 
 
