@@ -60,7 +60,7 @@ Peter Carragher, Evan M. Williams, Kathleen M. Carley
 Peter Carragher, Kathleen M. Carley  
 *SBP-BRiMS 2024: International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation*. 2024.
 <br>
-<span class="badge conference">conference paper</span> [pdf](https://link.springer.com/chapter/10.1007/978-3-031-72241-7_15) . [code](https://github.com/PeterCarragher/iranian_news_networks) . [slides](https://docs.google.com/presentation/d/1_ZNvx-fAla2w1IvFjm8uAAPLZEtF-NnNvTiX7cmPQkw/edit?usp=sharing)
+<span class="badge conference">conference paper</span> [pdf](https://link.springer.com/chapter/10.1007/978-3-031-72241-7_15) . [code](https://github.com/PeterCarragher/iranian_news_networks) . [data](https://github.com/PeterCarragher/iranian_news_networks/tree/main/data) . [slides](https://docs.google.com/presentation/d/1_ZNvx-fAla2w1IvFjm8uAAPLZEtF-NnNvTiX7cmPQkw/edit?usp=sharing)
 <hr>
 
 
