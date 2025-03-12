@@ -44,7 +44,7 @@ Evan M. Williams, Peter Carragher, Kathleen M. Carley
 Peter Carragher, Evan M. Williams, Kathleen M. Carley  
 *ICWSM 2024: The 18th International AAAI Conference on Web and Social Media*. 2024.
 <br>
-<span class="badge conference">conference paper</span> [pdf](https://doi.org/10.1609/icwsm.v18i1.31309) . [code](https://github.com/CASOS-IDeaS-CMU/Detection-and-Discovery-of-Misinformation-Sources/) . [data](https://doi.org/10.1184/R1/25174193.v1) . [slides](https://docs.google.com/presentation/d/1zCfcoCZlwa057MOSo5XTbsUA-ad1q7alWgjhXAZW4IQ/edit?usp=sharing)
+<span class="badge conference">conference paper</span> [pdf](https://doi.org/10.1609/icwsm.v18i1.31309) . [code](https://github.com/CASOS-IDeaS-CMU/Detection-and-Discovery-of-Misinformation-Sources/) . [data](https://doi.org/10.1184/R1/25174193.v1) . [data](https://doi.org/10.1184/R1/25174193.v1) . [slides](https://docs.google.com/presentation/d/1zCfcoCZlwa057MOSo5XTbsUA-ad1q7alWgjhXAZW4IQ/edit?usp=sharing)
 <hr>
 
 
@@ -60,7 +60,7 @@ Peter Carragher, Evan M. Williams, Kathleen M. Carley
 Peter Carragher, Kathleen M. Carley  
 *SBP-BRiMS 2024: International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation*. 2024.
 <br>
-<span class="badge conference">conference paper</span> [pdf](https://link.springer.com/chapter/10.1007/978-3-031-72241-7_15) . [slides](https://docs.google.com/presentation/d/1_ZNvx-fAla2w1IvFjm8uAAPLZEtF-NnNvTiX7cmPQkw/edit?usp=sharing)
+<span class="badge conference">conference paper</span> [pdf](https://link.springer.com/chapter/10.1007/978-3-031-72241-7_15) . [code](https://github.com/PeterCarragher/iranian_news_networks) . [slides](https://docs.google.com/presentation/d/1_ZNvx-fAla2w1IvFjm8uAAPLZEtF-NnNvTiX7cmPQkw/edit?usp=sharing)
 <hr>
 
 
@@ -68,7 +68,7 @@ Peter Carragher, Kathleen M. Carley
 Peter Carragher, Lynnette Xian Ng, Kathleen M. Carley  
 *SBP-BRiMS 2023: International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation*. 2023.
 <br>
-<span class="badge conference">conference paper</span> [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43129-6_16) . [slides](https://docs.google.com/presentation/d/1ICLYORWluCyLCzkEUmTQecqk6z5iJnSJ/edit?usp=sharing&ouid=108042404470240135917&rtpof=true&sd=true)
+<span class="badge conference">conference paper</span> [pdf](https://link.springer.com/chapter/10.1007/978-3-031-43129-6_16) . [code](https://github.com/CASOS-IDeaS-CMU/Construct-API/tree/main) . [slides](https://docs.google.com/presentation/d/1ICLYORWluCyLCzkEUmTQecqk6z5iJnSJ/edit?usp=sharing&ouid=108042404470240135917&rtpof=true&sd=true) 
 <hr>
 
 
