@@ -1,14 +1,10 @@
 ---
+title: Publications
+permalink: /publications/
 layout: home
-title: 
-canonical_url: petercarragher.com
 ---
 {::options parse_block_html="true" /}
 {: .bio}
-{{ site.data.about.bio }}
-
-## Publications
-{: #publications}
 
 <div class="publications">
 {% for pub in site.data.publications %}

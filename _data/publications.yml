@@ -1,0 +1,76 @@
+- title: "KOALA: Knowledge Conflict Augmentations for Robustness in Vision Language Models"
+  authors: "Peter Carragher, Nikitha Rao, Abhinand Jha, R Raghav, Kathleen M. Carley"
+  venue: "Under review"
+  year: 2025
+  type: "preprint"
+  links:
+    pdf: "https://arxiv.org/abs/2502.14908"
+    code: "https://github.com/CASOS-IDeaS-CMU/KOALA"
+    data: "https://www.doi.org/10.1184/R1/28297076"
+
+- title: "Quantifying Memorization and Retriever Performance in Retrieval-Augmented Vision-Language Models"
+  authors: "Peter Carragher, Abhinand Jha, R Raghav, Kathleen M. Carley"
+  venue: "Under review"
+  year: 2025
+  type: "preprint"
+  links:
+    pdf: "https://arxiv.org/abs/2502.13836"
+
+- title: "Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains"
+  authors: "Evan M. Williams, Peter Carragher, Kathleen M. Carley"
+  venue: "Under review"
+  year: 2024
+  type: "preprint"
+  links:
+    pdf: "https://arxiv.org/abs/2406.11423"
+
+- title: "Detection and Discovery of Misinformation Sources using Attributed Webgraphs"
+  authors: "Peter Carragher, Evan M. Williams, Kathleen M. Carley"
+  venue: "ICWSM 2024: The 18th International AAAI Conference on Web and Social Media"
+  year: 2024
+  type: "conference paper"
+  links:
+    pdf: "https://doi.org/10.1609/icwsm.v18i1.31309"
+    code: "https://github.com/CASOS-IDeaS-CMU/Detection-and-Discovery-of-Misinformation-Sources/"
+    data: "https://doi.org/10.1184/R1/25174193.v1"
+    slides: "https://docs.google.com/presentation/d/1zCfcoCZlwa057MOSo5XTbsUA-ad1q7alWgjhXAZW4IQ/edit?usp=sharing"
+
+- title: "Misinformation Resilient Search Rankings with Webgraph-based Interventions"
+  authors: "Peter Carragher, Evan M. Williams, Kathleen M. Carley"
+  venue: "ACM Transactions on Intelligent Systems and Technology: Special Issue on Responsible Recommender Systems"
+  year: 2024
+  type: "journal article"
+  links:
+    pdf: "https://dl.acm.org/doi/10.1145/3670410"
+    code: "https://github.com/CASOS-IDeaS-CMU/Misinformation-Resilient-Search-Rankings"
+    data: "https://doi.org/10.1184/R1/25174193.v1"
+    slides: "https://docs.google.com/presentation/d/1VaJsH3iGGziz-UjaICKZpnh-rpAOiA3i98vuOZY_fEQ/edit?usp=sharing"
+
+- title: "Accountability in Search Engine Manipulation: A Case Study of the Iranian News Ecosystem"
+  authors: "Peter Carragher, Kathleen M. Carley"
+  venue: "SBP-BRiMS 2024: International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation"
+  year: 2024
+  type: "conference paper"
+  links:
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-031-72241-7_15"
+    code: "https://github.com/PeterCarragher/iranian_news_networks"
+    data: "https://github.com/PeterCarragher/iranian_news_networks/tree/main/data"
+    slides: "https://docs.google.com/presentation/d/1_ZNvx-fAla2w1IvFjm8uAAPLZEtF-NnNvTiX7cmPQkw/edit?usp=sharing"
+
+- title: "Simulation of Stance Perturbation"
+  authors: "Peter Carragher, Lynnette Xian Ng, Kathleen M. Carley"
+  venue: "SBP-BRiMS 2023: International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation"
+  year: 2023
+  type: "conference paper"
+  links:
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-031-43129-6_16"
+    code: "https://github.com/CASOS-IDeaS-CMU/Construct-API/tree/main"
+    slides: "https://docs.google.com/presentation/d/1ICLYORWluCyLCzkEUmTQecqk6z5iJnSJ/edit?usp=sharing&ouid=108042404470240135917&rtpof=true&sd=true"
+
+- title: "Simulation of Stance Perturbation"
+  authors: "Peter Carragher, Lynnette Xian Ng, Kathleen M. Carley"
+  venue: "WSC 2022: Proceedings of the 2022 Winter Simulation Conference"
+  year: 2022
+  type: "abstract"
+  links:
+    abstract: "https://informs-sim.org/wsc22papers/265.pdf"
