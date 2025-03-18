@@ -2,8 +2,8 @@
 title: "Animating diffusion processes in networks"
 excerpt: "A visual learning aid for experimenting with diffusion models and network configurations."
 header:
-  image: /assets/images/diffusion_animation.png
-  teaser: /assets/images/diffusion_animation.png
+  image: /assets/images/diffusion_animation.gif
+  teaser: /assets/images/diffusion_animation.gif
 # sidebar:
 #   - title: "Role"
 #     image: /assets/images/dig_deeper.png
@@ -12,8 +12,8 @@ header:
 #   - title: "Responsibilities"
 #     text: "Reuters try PR stupid commenters should isn't a business model"
 gallery:
-  - url: /assets/images/diffusion_animation.png
-    image_path: /assets/images/diffusion_animation.png
+  - url: /assets/images/diffusion_animation.gif
+    image_path: /assets/images/diffusion_animation.gif
     alt: "Diffusion processes in networks"
 ---
 
