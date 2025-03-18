@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Peter Carragher"
-  avatar           : "/images/stone_profile_pic_cropped.jpg"
-  bio              : "PhD Student<br><a href='http://www.casos.cs.cmu.edu/' target='_blank' style='color:#4e91a5'>CASOS</a> and <a href='https://www.cmu.edu/ideas-social-cybersecurity/' target='_blank' style='color:#4e91a5'>IDeaS Center</a><br>Carnegie Mellon University"
+  avatar           : "/images/stone_profile_pic_cropped_circular.png"
+  bio              : "PhD Student<br><a href='https://www.cmu.edu/casos-center/' target='_blank' style='color:#4e91a5'>CASOS</a> and <a href='https://www.cmu.edu/ideas-social-cybersecurity/' target='_blank' style='color:#4e91a5'>IDeaS Center</a><br>Carnegie Mellon University"
   location         : "Pittsburgh, PA, USA"
   email            :
   links:
@@ -110,7 +110,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://x.com/PeterVCarragher"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -124,15 +124,21 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "petercarragher@cmu.edu"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:petercarragher@cmu.edu"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/PeterCarragher"
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?hl=en&user=FxMWswoAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/PeterCarragher"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
