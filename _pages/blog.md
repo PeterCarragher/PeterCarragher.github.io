@@ -1,8 +1,6 @@
 ---
-title: Blog
-layout: collection
+title: "Posts by Year"
 permalink: /blog/
-collection: blog
-entries_layout: grid
-classes: wide
+layout: posts
+author_profile: true
 ---

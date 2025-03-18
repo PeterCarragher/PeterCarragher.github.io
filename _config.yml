@@ -275,12 +275,6 @@ compress_html:
   ignore:
     envs: development
 
-collections:
-  blog:
-    output: true
-    permalink: /:collection/:path/
-
-
 # Defaults
 defaults:
   # _posts
@@ -294,14 +288,6 @@ defaults:
       comments: # true
       share: true
       related: true
-    # _portfolio
-  - scope:
-      path: ""
-      type: blog
-    values:
-      layout: single
-      author_profile: true
-      share: true
   - scope:
       path: "/files/*.pdf"
     values:
