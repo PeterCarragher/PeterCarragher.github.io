@@ -8,8 +8,14 @@ layout: home
 
 <div class="publications">
 {% for pub in site.data.publications %}
-**{{ pub.title }}** 
+{% if pub.links.scholar %}
+**[{{ pub.title }}]({{ pub.links.scholar }})**
+{% else %}
+**{{ pub.title }}**
+{% endif %}
+<br>
 {{ pub.authors }}  
+<br>
 *{{ pub.venue }}*. {{ pub.year }}.
 <br>
 <span class="badge {{ pub.type }}">{{ pub.type }}</span>
