@@ -29,13 +29,13 @@ The plugin has three main components:
 The first step is to extract audio from YouTube videos and convert it into text using OpenAI's Whisper model. Below is the code for downloading audio, converting it to a suitable format, and generating transcripts.
 
 ### Downloading Audio
-```node
+```js
 const fs = require('fs');
 const ytdl = require('@distube/ytdl-core');
 ```
 The `ytdl-core` library is used to download audio from YouTube. The `downloadAudioOnly` function filters the video to download only the audio stream and saves it to a specified path.
 
-```node
+```js
 function downloadAudioOnly(url, audio_path, callback) {
   const stream = ytdl(url, 
     {
@@ -65,7 +65,7 @@ This function ensures that only the audio is downloaded, which reduces the file 
 
 ### Converting Audio to WAV Format
 Once the audio is downloaded, it needs to be converted to a WAV format compatible with the Whisper model. This is done using the `ffmpeg-static` library.
-```node
+```js
 function convertMP3ToWAV(audio_path_mp3, audio_path_wav){
   const ffmpeg = require('ffmpeg-static');
   const spawn = require('child_process').spawn;
@@ -85,7 +85,7 @@ This function uses `ffmpeg` to convert the MP3 file to a WAV file with a sample 
 
 ### Generating Transcripts
 The `ytTranscript` function orchestrates the process of downloading audio, converting it to WAV, and generating a transcript using Whisper.
-```node
+```js
 async function ytTranscript(url) {
   return new Promise((resolve, reject) => {
     video_id = get_video_id(url);
@@ -125,7 +125,7 @@ This function:
 
 ## GPT API Integration
 The next step is to integrate OpenAI's GPT API to generate curiosity-provoking suggestions based on the video transcript. The following code sets up an Express server to handle requests.
-```node
+```js
 const express = require('express');
 const OpenAI = require('openai');
 
@@ -170,7 +170,7 @@ This server:
 
 ## Chat Interface
 Finally, a simple chat interface is implemented in the browser to allow users to interact with the plugin.
-```node
+```js
 document.getElementById("send").addEventListener("click", () => {
   const query = document.getElementById("input").value;
   chrome.tabs.query({ active: true, currentWindow: true }, (tabs) => {
