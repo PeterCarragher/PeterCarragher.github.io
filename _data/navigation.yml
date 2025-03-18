@@ -3,6 +3,8 @@ main:
   # - title: "Publications"
   #   url: /#publications
     #url: /index.html#publications
+  - title: "About"
+    url: /about/
   - title: "CV"
     url: /files/cv.pdf
   # - title: "Sample Posts"
