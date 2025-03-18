@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Peter Carragher
-author: Peter Carragher [he/they]
+author: Peter Carragher
 email: petercarragher@cmu.edu
 address: >
   312 TCS Hall <br>
@@ -23,15 +23,15 @@ address: >
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
-url: http://www.casos.cs.cmu.edu/people/bios/939.php # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
-github_username:  petercarragher
+url: http://petercarragher.com # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: petervcarragher
+github_username: petercarragher
 google_scholar: https://scholar.google.com/citations?hl=en&user=FxMWswoAAAAJ 
 
 # Navigation links order
 header_pages:
- - publications.md
- - research.md
+#  - publications.md
+#  - research.md
  - cv.md
 
 # Build settings
