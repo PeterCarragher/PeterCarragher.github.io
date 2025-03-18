@@ -13,9 +13,7 @@ layout: home
 {% else %}
 {{ pub.title }}
 {% endif %}
-
 {{ pub.authors }}  
-
 *{{ pub.venue }}*. {{ pub.year }}.
 <br>
 <span class="badge {{ pub.type }}">{{ pub.type }}</span>
