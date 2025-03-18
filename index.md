@@ -1,6 +1,7 @@
 ---
 layout: home
 title: 
+canonical_url: petercarragher.com
 ---
 {::options parse_block_html="true" /}
 {: .bio}
