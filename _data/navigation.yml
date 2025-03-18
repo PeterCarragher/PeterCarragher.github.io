@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Publications"
-    url: /#publications
+  # - title: "Publications"
+  #   url: /#publications
     #url: /index.html#publications
   - title: "CV"
     url: /files/cv.pdf
