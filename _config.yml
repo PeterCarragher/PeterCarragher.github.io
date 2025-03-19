@@ -266,24 +266,13 @@ comments:
     category_id          : "DIC_kwDOAZ4ejs4CoPdd" # Shown during giscus setup at https://giscus.app
     discussion_term      : "pathname" # (default), "url", "title", "og:title"
     reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
+    strict               : 0
+    reactions_enabled    : 1
+    emit_metadata        : 0
+    input_position       : "top"
     theme                : "noborder_light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-
-# <script src="https://giscus.app/client.js"
-#         data-repo="petercarragher/petercarragher.github.io"
-#         data-repo-id="MDEwOlJlcG9zaXRvcnkyNzEzOTcyNg=="
-#         data-category="Announcements"
-#         data-category-id="DIC_kwDOAZ4ejs4CoPdd"
-#         data-mapping="pathname"
-#         data-strict="0"
-#         data-reactions-enabled="1"
-#         data-emit-metadata="0"
-#         data-input-position="top"
-#         data-theme="noborder_light"
-#         data-lang="en"
-#         data-loading="lazy"
-#         crossorigin="anonymous"
-#         async>
-# </script>
+    lang                 : "en"
+    lazy                 : 1
 
 # Defaults
 defaults:
