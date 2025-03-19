@@ -94,15 +94,18 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/PeterVCarragher"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Bluesky"
+      icon: "fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/pcarragher.bsky.social"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/PeterCarragher"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
 
 # Site Footer
 footer:
@@ -118,19 +121,10 @@ footer:
       url: "https://scholar.google.com/citations?hl=en&user=FxMWswoAAAAJ"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://x.com/PeterVCarragher"
+    - label: "Bluesky"
+      icon: "fa-brands fa-square-bluesky"
+      url: "https://bsky.app/profile/pcarragher.bsky.social"
 
 
 # Reading Files
