@@ -17,6 +17,10 @@ gallery:
     alt: "Diffusion processes in networks"
 ---
 
+## NotebookLM Summary
+
+../assets/audio/notebooklm_network_diffusion.wav
+
 ## Overview
 1. [NDlib at a Glance](#ndlib-at-a-glance)
 2. [Generating Diffusion Plots Per Timestep](#generating-diffusion-plots-per-timestep)

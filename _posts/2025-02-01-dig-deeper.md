@@ -17,6 +17,10 @@ gallery:
     alt: "Conversational AI can break the doom-scrolling loop"
 ---
 
+## NotebookLM Summary
+
+../assets/audio/notebooklm_dig_deeper.wav
+
 ## Overview
 This blog post explores the creation of a prototype browser plugin that analyzes the YouTube Shorts you watch. The goal is to encourage users to actively search and "dig deeper" into topics, rather than passively consuming content from the platform's recommendation system. The plugin achieves this by generating transcripts of videos, feeding them to a language model, and providing a chat interface for interaction.
 
