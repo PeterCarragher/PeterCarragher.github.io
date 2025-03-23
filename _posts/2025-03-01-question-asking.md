@@ -17,6 +17,8 @@ gallery:
     alt: "Evaluating question asking ability"
 ---
 
+../assets/audio/notebooklm_question_asking.wav
+
 ## Overview
 
 This blog post walks you through the implementation of a question-asking game built using Streamlit. The game is designed to encourage curiosity and critical thinking by allowing users to ask questions about a randomly chosen phenomenon. The teacher (an AI model) provides answers that provoke deeper inquiry. The game also evaluates the quality of the questions asked.
