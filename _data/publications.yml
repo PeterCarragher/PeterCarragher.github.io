@@ -1,17 +1,17 @@
-- title: "KOALA: Knowledge Conflict Augmentations for Robustness in Vision Language Models"
+- title: "SegSub: Evaluating Robustness to Knowledge Conflicts and Hallucinations in Vision-Language Models"
   authors: "Peter Carragher, Nikitha Rao, Abhinand Jha, R Raghav, Kathleen M. Carley"
-  venue: "Under review"
+  venue: "Upcoming at MisD: ICWSM Workshop on Misinformation Detection in the Era of LLMs"
   year: 2025
   type: "preprint"
   links:
     pdf: "https://arxiv.org/abs/2502.14908"
-    code: "https://github.com/CASOS-IDeaS-CMU/KOALA"
+    code: "https://github.com/CASOS-IDeaS-CMU/segsub"
     data: "https://www.doi.org/10.1184/R1/28297076"
     scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:ufrVoPGSRksC"
 
-- title: "Quantifying Memorization and Retriever Performance in Retrieval-Augmented Vision-Language Models"
+- title: "Quantifying Memorization and Parametric Response Rates in Retrieval-Augmented Vision-Language Models"
   authors: "Peter Carragher, Abhinand Jha, R Raghav, Kathleen M. Carley"
-  venue: "Under review"
+  venue: "Upcoming at L2M2: ACL Workshop on Large Language Model Memorization"
   year: 2025
   type: "preprint"
   links:
@@ -20,8 +20,8 @@
 
 - title: "Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains"
   authors: "Evan M. Williams, Peter Carragher, Kathleen M. Carley"
-  venue: "Under review"
-  year: 2024
+  venue: "Upcoming at ICWSM 2025: The 19th International AAAI Conference on Web and Social Media"
+  year: 2025
   type: "preprint"
   links:
     pdf: "https://arxiv.org/abs/2406.11423"
