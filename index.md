@@ -13,6 +13,7 @@ canonical_url: petercarragher.com
 <div class="publications">
 {% for pub in site.data.publications %}
 {% if pub.links.scholar %}[{{ pub.title }}]({{ pub.links.scholar }}){% else %}{{ pub.title }}{% endif %}
+
 {{ pub.authors }}  
 *{{ pub.venue }}*. {{ pub.year }}.
 <br>
