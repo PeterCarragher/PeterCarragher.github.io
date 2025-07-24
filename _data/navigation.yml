@@ -9,6 +9,8 @@ main:
     url: /blog/
   - title: "CV"
     url: /files/cv.pdf
+  - title: "NewsGuess"
+    url: https://newsguess.petercarragher.com/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
