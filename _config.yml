@@ -252,21 +252,21 @@ compress_html:
   ignore:
     envs: development
 
-comments:
-  provider: "giscus"
-  giscus:
-    repo_id              : "MDEwOlJlcG9zaXRvcnkyNzEzOTcyNg==" # Shown during giscus setup at https://giscus.app
-    category_name        : "Announcements" # Full text name of the category
-    category_id          : "DIC_kwDOAZ4ejs4CoPdd" # Shown during giscus setup at https://giscus.app
-    discussion_term      : "pathname" # (default), "url", "title", "og:title"
-    reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
-    strict               : 0
-    reactions_enabled    : 1
-    emit_metadata        : 0
-    input_position       : "top"
-    theme                : "noborder_light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-    lang                 : "en"
-    lazy                 : 1
+# comments:
+#   provider: "giscus"
+#   giscus:
+#     repo_id              : "MDEwOlJlcG9zaXRvcnkyNzEzOTcyNg==" # Shown during giscus setup at https://giscus.app
+#     category_name        : "Announcements" # Full text name of the category
+#     category_id          : "DIC_kwDOAZ4ejs4CoPdd" # Shown during giscus setup at https://giscus.app
+#     discussion_term      : "pathname" # (default), "url", "title", "og:title"
+#     reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
+#     strict               : 0
+#     reactions_enabled    : 1
+#     emit_metadata        : 0
+#     input_position       : "top"
+#     theme                : "noborder_light" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
+#     lang                 : "en"
+#     lazy                 : 1
 
 # Defaults
 defaults:
