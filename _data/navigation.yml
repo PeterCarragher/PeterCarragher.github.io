@@ -11,6 +11,8 @@ main:
     url: /files/cv.pdf
   - title: "NewsGuess"
     url: https://newsguess.petercarragher.com/
+  - title: "NewsMap"
+    url: https://newsmap.petercarragher.com/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
