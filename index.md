@@ -7,11 +7,11 @@ canonical_url: petercarragher.com
 {: .bio}
 {{ site.data.about.bio }}
 
-## Publications
+## Representative Publications
 {: #publications}
 
 <div class="publications">
-{% for pub in site.data.publications %}
+{% for pub in site.data.representative %}
 {% if pub.links.scholar %}[{{ pub.title }}]({{ pub.links.scholar }}){% else %}{{ pub.title }}{% endif %}<br>
 {{ pub.authors }} <br>
 *{{ pub.venue }}*. {{ pub.year }}. <br>

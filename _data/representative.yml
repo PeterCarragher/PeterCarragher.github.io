@@ -1,0 +1,54 @@
+- title: "Misinformation Resilient Search Rankings with Webgraph-based Interventions"
+  authors: "Peter Carragher, Evan M. Williams, Kathleen M. Carley"
+  venue: "ACM Transactions on Intelligent Systems and Technology: Special Issue on Responsible Recommender Systems"
+  year: 2025
+  type: "journal article"
+  links:
+    pdf: "https://dl.acm.org/doi/10.1145/3670410"
+    code: "https://github.com/CASOS-IDeaS-CMU/Misinformation-Resilient-Search-Rankings"
+    data: "https://doi.org/10.1184/R1/25174193.v1"
+    slides: "https://docs.google.com/presentation/d/1VaJsH3iGGziz-UjaICKZpnh-rpAOiA3i98vuOZY_fEQ/edit?usp=sharing"
+    scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:_FxGoFyzp5QC"
+
+- title: "Detection and Discovery of Misinformation Sources using Attributed Webgraphs"
+  authors: "Peter Carragher, Evan M. Williams, Kathleen M. Carley"
+  venue: "ICWSM 2024: The 18th International AAAI Conference on Web and Social Media"
+  year: 2024
+  type: "conference paper"
+  links:
+    pdf: "https://doi.org/10.1609/icwsm.v18i1.31309"
+    code: "https://github.com/CASOS-IDeaS-CMU/Detection-and-Discovery-of-Misinformation-Sources/"
+    data: "https://doi.org/10.1184/R1/25174193.v1"
+    slides: "https://docs.google.com/presentation/d/1zCfcoCZlwa057MOSo5XTbsUA-ad1q7alWgjhXAZW4IQ/edit?usp=sharing"
+    scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:qjMakFHDy7sC"
+
+- title: "Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains"
+  authors: "Evan M. Williams, Peter Carragher, Kathleen M. Carley"
+  venue: "ICWSM 2025: The 19th International AAAI Conference on Web and Social Media"
+  year: 2025
+  type: "conference paper"
+  links:
+    pdf: "https://ojs.aaai.org/index.php/ICWSM/article/view/35917"
+    code: "https://github.com/CASOS-IDeaS-CMU/DredgeWords"
+    scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:WF5omc3nYNoC"
+
+- title: "Quantifying Memorization and Parametric Response Rates in Retrieval-Augmented Vision-Language Models"
+  authors: "Peter Carragher, Abhinand Jha, R Raghav, Kathleen M. Carley"
+  venue: "L2M2: ACL Workshop on Large Language Model Memorization"
+  year: 2025
+  type: "workshop paper"
+  links:
+    pdf: "https://arxiv.org/abs/2502.13836"
+    scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:YsMSGLbcyi4C"
+
+- title: "Accountability in Search Engine Manipulation: A Case Study of the Iranian News Ecosystem"
+  authors: "Peter Carragher, Kathleen M. Carley"
+  venue: "SBP-BRiMS 2024: International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation"
+  year: 2024
+  type: "conference paper"
+  links:
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-031-72241-7_15"
+    code: "https://github.com/PeterCarragher/iranian_news_networks"
+    data: "https://github.com/PeterCarragher/iranian_news_networks/tree/main/data"
+    slides: "https://docs.google.com/presentation/d/1_ZNvx-fAla2w1IvFjm8uAAPLZEtF-NnNvTiX7cmPQkw/edit?usp=sharing"
+    scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:Y0pCki6q_DkC"
