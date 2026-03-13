@@ -1,13 +1,52 @@
-- title: "SegSub: Evaluating Robustness to Knowledge Conflicts and Hallucinations in Vision-Language Models"
-  authors: "Peter Carragher, Nikitha Rao, Abhinand Jha, R Raghav, Kathleen M. Carley"
-  venue: "MisD: ICWSM Workshop on Misinformation Detection in the Era of LLMs"
-  year: 2025
-  type: "workshop paper"
+# - title: "Modeling Emotional Expression in LLM Agents with Social Media–Based Validation"
+#   authors: "Rebecca Marigliano, Peter Carragher, Kathleen M. Carley"
+#   venue: "Transactions on Computational Social Systems: Special Issue on Generative Computational Social Intelligence: Modeling, Simulation, and Applications."
+#   year: 2026
+#   type: "journal article"
+
+# - title: "Simulating opinion dynamics with LLMs on Synthetic Social Media using the Extended Friedkin Model"
+#   authors: "Rebecca Marigliano, Peter Carragher, Kathleen M. Carley"
+#   venue: "Transactions on Computational Social Systems: Special Issue on Generative Computational Social Intelligence: Modeling, Simulation, and Applications."
+#   year: 2026
+#   type: "journal article"
+
+# - title: "A Survey on LLMs for Story Generation"
+#   authors: "Maria Teleki, Vedangi Bengali, Peter Carragher, Xiangjue Dong, Sai Tejas Janjur, Haoran Liu, Tian Liu, Cong Wang, Ting Liu, Yin Zhang, Frank Shipman, James Caverlee"
+#   venue: "journal article"
+#   year: 2026
+#   type: "preprint"
+
+- title: "SocialPulse: An Open-Source Subreddit Sensemaking Toolkit"
+  authors: "Stephanie Birkelbach, Maria Teleki, Peter Carragher, Xiangjue Dong, Nehul Bhatnagar, and James Caverlee"
+  venue: "Preprint"
+  year: 2026
+  type: "preprint"
   links:
-    pdf: "https://workshop-proceedings.icwsm.org/abstract.php?id=2025_27"
-    code: "https://github.com/CASOS-IDeaS-CMU/segsub"
-    data: "https://www.doi.org/10.1184/R1/28297076"
-    scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:ufrVoPGSRksC"
+    pdf: "https://arxiv.org/pdf/2602.07248"
+    code: "https://github.com/birkelbachs/SocialPulse"
+    scholar: "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C39&q=SocialPulse%3A+An+Open-Source+Subreddit+Sensemaking+Toolkit&btnG="
+
+- title: "PodChecker: An Interpretable Fact-Checking Companion for Podcasts"
+  authors: "Anna Irmetova, Haoran Liu, Maria Teleki, Peter Carragher, Julie Zhang, James Caverlee"
+  venue: "Preprint"
+  year: 2026
+  type: "preprint"
+  links:
+    pdf: "https://mariateleki.github.io/pdf/PodChecker.pdf"
+    code: "https://github.com/annatastic/PodChecker"
+    scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:MXK_kJrjxJIC"
+
+- title: "Misinformation Resilient Search Rankings with Webgraph-based Interventions"
+  authors: "Peter Carragher, Evan M. Williams, Kathleen M. Carley"
+  venue: "ACM Transactions on Intelligent Systems and Technology: Special Issue on Responsible Recommender Systems"
+  year: 2025
+  type: "journal article"
+  links:
+    pdf: "https://dl.acm.org/doi/10.1145/3670410"
+    code: "https://github.com/CASOS-IDeaS-CMU/Misinformation-Resilient-Search-Rankings"
+    data: "https://doi.org/10.1184/R1/25174193.v1"
+    slides: "https://docs.google.com/presentation/d/1VaJsH3iGGziz-UjaICKZpnh-rpAOiA3i98vuOZY_fEQ/edit?usp=sharing"
+    scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:_FxGoFyzp5QC"
 
 - title: "Bridging Social Media and Search Engines: Dredge Words and the Detection of Unreliable Domains"
   authors: "Evan M. Williams, Peter Carragher, Kathleen M. Carley"
@@ -28,6 +67,17 @@
     pdf: "https://arxiv.org/abs/2502.13836"
     scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:YsMSGLbcyi4C"
 
+- title: "SegSub: Evaluating Robustness to Knowledge Conflicts and Hallucinations in Vision-Language Models"
+  authors: "Peter Carragher, Nikitha Rao, Abhinand Jha, R Raghav, Kathleen M. Carley"
+  venue: "MisD: ICWSM Workshop on Misinformation Detection in the Era of LLMs"
+  year: 2025
+  type: "workshop paper"
+  links:
+    pdf: "https://workshop-proceedings.icwsm.org/abstract.php?id=2025_27"
+    code: "https://github.com/CASOS-IDeaS-CMU/segsub"
+    data: "https://www.doi.org/10.1184/R1/28297076"
+    scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:ufrVoPGSRksC"
+
 - title: "Mapping the Scientific Literature on Misinformation Interventions: A Bibliometric Review"
   authors: "Catherine King, Peter Carragher, Kathleen M. Carley"
   venue: "COMPASS: The 1st international Workshop on Computational Approaches to Content Moderation and Platform Governance"
@@ -38,20 +88,6 @@
     data: "https://www.zotero.org/groups/5961522/misinformation_interventions"
     scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:LkGwnXOMwfcC"
 
-- title: "Misinformation Resilient Search Rankings with Webgraph-based Interventions"
-  authors: "Peter Carragher, Evan M. Williams, Kathleen M. Carley"
-  venue: "ACM Transactions on Intelligent Systems and Technology: Special Issue on Responsible Recommender Systems"
-  year: 2025
-  type: "journal article"
-  links:
-    pdf: "https://dl.acm.org/doi/10.1145/3670410"
-    webgraph: "https://netneighbor.petercarragher.com/link-spam-network"
-    code: "https://github.com/CASOS-IDeaS-CMU/Misinformation-Resilient-Search-Rankings"
-    data: "https://doi.org/10.1184/R1/25174193.v1"
-    slides: "https://docs.google.com/presentation/d/1VaJsH3iGGziz-UjaICKZpnh-rpAOiA3i98vuOZY_fEQ/edit?usp=sharing"
-    scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:_FxGoFyzp5QC"
-
-
 - title: "Detection and Discovery of Misinformation Sources using Attributed Webgraphs"
   authors: "Peter Carragher, Evan M. Williams, Kathleen M. Carley"
   venue: "ICWSM 2024: The 18th International AAAI Conference on Web and Social Media"
@@ -59,7 +95,6 @@
   type: "conference paper"
   links:
     pdf: "https://doi.org/10.1609/icwsm.v18i1.31309"
-    webgraph: "https://netneighbor.petercarragher.com/high-profile-news-network"
     code: "https://github.com/CASOS-IDeaS-CMU/Detection-and-Discovery-of-Misinformation-Sources/"
     data: "https://doi.org/10.1184/R1/25174193.v1"
     slides: "https://docs.google.com/presentation/d/1zCfcoCZlwa057MOSo5XTbsUA-ad1q7alWgjhXAZW4IQ/edit?usp=sharing"
@@ -72,7 +107,6 @@
   type: "conference paper"
   links:
     pdf: "https://link.springer.com/chapter/10.1007/978-3-031-72241-7_15"
-    webgraph: "https://netneighbor.petercarragher.com/iranian_news_network"
     code: "https://github.com/PeterCarragher/iranian_news_networks"
     data: "https://github.com/PeterCarragher/iranian_news_networks/tree/main/data"
     slides: "https://docs.google.com/presentation/d/1_ZNvx-fAla2w1IvFjm8uAAPLZEtF-NnNvTiX7cmPQkw/edit?usp=sharing"
