@@ -18,7 +18,7 @@
   type: "conference paper"
   links:
     pdf: "https://doi.org/10.1609/icwsm.v18i1.31309"
-    webgraph: "https://netneighbor.petercarragher.com/high-profile-news-network"
+    webgraph: "https://netneighbor.petercarragher.com/news-credibility-network"
     code: "https://github.com/CASOS-IDeaS-CMU/Detection-and-Discovery-of-Misinformation-Sources/"
     data: "https://doi.org/10.1184/R1/25174193.v1"
     slides: "https://docs.google.com/presentation/d/1zCfcoCZlwa057MOSo5XTbsUA-ad1q7alWgjhXAZW4IQ/edit?usp=sharing"
