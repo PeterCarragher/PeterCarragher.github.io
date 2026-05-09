@@ -18,7 +18,7 @@
 
 - title: "SocialPulse: An Open-Source Subreddit Sensemaking Toolkit"
   authors: "Stephanie Birkelbach, Maria Teleki, Peter Carragher, Xiangjue Dong, Nehul Bhatnagar, and James Caverlee"
-  venue: "Preprint"
+  venue: "Accepted at SocialLLM: ICWSM Workshop on Large Language Models for Social Reasoning and Simulation"
   year: 2026
   type: "preprint"
   links:
@@ -28,7 +28,7 @@
 
 - title: "PodChecker: An Interpretable Fact-Checking Companion for Podcasts"
   authors: "Anna Irmetova, Haoran Liu, Maria Teleki, Peter Carragher, Julie Zhang, James Caverlee"
-  venue: "Preprint"
+  venue: "Accepted at MisD: ICWSM Workshop on Misinformation Detection in the Era of LLMs"
   year: 2026
   type: "preprint"
   links:
