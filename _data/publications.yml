@@ -1,4 +1,4 @@
-- title: "Modeling Emotional Expression in LLM Agents with Social Media–Based Validation"
+- title: "Modeling Event-Conditioned Emotional Response in LLM Agents in a Synthetic Social Simulation"
   authors: "Rebecca Marigliano, Peter Carragher, Kathleen M. Carley"
   venue: "Under revision at Transactions on Computational Social Systems: Special Issue on Generative Computational Social Intelligence: Modeling, Simulation, and Applications."
   year: 2026
@@ -10,29 +10,31 @@
   year: 2026
   type: "journal article"
 
-# - title: "A Survey on LLMs for Story Generation"
-#   authors: "Maria Teleki, Vedangi Bengali, Peter Carragher, Xiangjue Dong, Sai Tejas Janjur, Haoran Liu, Tian Liu, Cong Wang, Ting Liu, Yin Zhang, Frank Shipman, James Caverlee"
-#   venue: "journal article"
-#   year: 2026
-#   type: "preprint"
+- title: "A Survey on LLMs for Story Generation"
+  authors: "Maria Teleki, Vedangi Bengali, Peter Carragher, Xiangjue Dong, Sai Tejas Janjur, Haoran Liu, Tian Liu, Cong Wang, Ting Liu, Yin Zhang, Frank Shipman, James Caverlee"
+  venue: "journal article"
+  year: 2026
+  type: "Under revision at Transactions on Intelligent Systems and Technology: Special Issue on Story Generation"
+  links:
+    pdf: "https://mariateleki.github.io/pdf/EXTENDED_A_Survey_on_LLMs_for_Story_Generation.pdf"
 
 - title: "SocialPulse: An Open-Source Subreddit Sensemaking Toolkit"
   authors: "Stephanie Birkelbach, Maria Teleki, Peter Carragher, Xiangjue Dong, Nehul Bhatnagar, and James Caverlee"
-  venue: "Accepted at SocialLLM: ICWSM Workshop on Large Language Models for Social Reasoning and Simulation"
+  venue: "SocialLLM: ICWSM Workshop on Large Language Models for Social Reasoning and Simulation"
   year: 2026
-  type: "preprint"
+  type: "workshop paper"
   links:
-    pdf: "https://arxiv.org/pdf/2602.07248"
+    pdf: "https://workshop-proceedings.icwsm.org/pdf/2026_70.pdf"
     code: "https://github.com/birkelbachs/SocialPulse"
     scholar: "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C39&q=SocialPulse%3A+An+Open-Source+Subreddit+Sensemaking+Toolkit&btnG="
 
 - title: "PodChecker: An Interpretable Fact-Checking Companion for Podcasts"
   authors: "Anna Irmetova, Haoran Liu, Maria Teleki, Peter Carragher, Julie Zhang, James Caverlee"
-  venue: "Accepted at MisD: ICWSM Workshop on Misinformation Detection in the Era of LLMs"
+  venue: "MisD: ICWSM Workshop on Misinformation Detection in the Era of LLMs"
   year: 2026
-  type: "preprint"
+  type: "workshop paper"
   links:
-    pdf: "https://mariateleki.github.io/pdf/PodChecker.pdf"
+    pdf: "https://workshop-proceedings.icwsm.org/pdf/2026_42.pdf"
     code: "https://github.com/annatastic/PodChecker"
     scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:MXK_kJrjxJIC"
 
