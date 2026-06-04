@@ -4,12 +4,6 @@
   year: 2026
   type: "journal article"
 
-- title: "Simulating opinion dynamics with LLMs on Synthetic Social Media using the Extended Friedkin Model"
-  authors: "Rebecca Marigliano, Peter Carragher, Kathleen M. Carley"
-  venue: "Under review at Transactions on Social Computing: Special Issue on Bridging AI and Social Science"
-  year: 2026
-  type: "journal article"
-
 - title: "A Survey on LLMs for Story Generation"
   authors: "Maria Teleki, Vedangi Bengali, Peter Carragher, Xiangjue Dong, Sai Tejas Janjur, Haoran Liu, Tian Liu, Cong Wang, Ting Liu, Yin Zhang, Frank Shipman, James Caverlee"
   venue: "Under revision at Transactions on Intelligent Systems and Technology: Special Issue on Story Generation"
@@ -17,6 +11,12 @@
   type: "journal article"
   links:
     pdf: "https://mariateleki.github.io/pdf/EXTENDED_A_Survey_on_LLMs_for_Story_Generation.pdf"
+
+- title: "Simulating opinion dynamics with LLMs on Synthetic Social Media using the Extended Friedkin Model"
+  authors: "Rebecca Marigliano, Peter Carragher, Kathleen M. Carley"
+  venue: "Working paper"
+  year: 2026
+  type: "journal article"
 
 - title: "SocialPulse: An Open-Source Subreddit Sensemaking Toolkit"
   authors: "Stephanie Birkelbach, Maria Teleki, Peter Carragher, Xiangjue Dong, Nehul Bhatnagar, and James Caverlee"
