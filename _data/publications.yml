@@ -1,6 +1,6 @@
-- title: "Modeling Event-Conditioned Emotional Response in LLM Agents in a Synthetic Social Simulation"
+- title: "Modeling Event-Conditioned Emotional Expression Response with LLM Agents in a Synthetic Social Simulation"
   authors: "Rebecca Marigliano, Peter Carragher, Kathleen M. Carley"
-  venue: "Under revision at Transactions on Computational Social Systems: Special Issue on Generative Computational Social Intelligence: Modeling, Simulation, and Applications."
+  venue: "Under review at Transactions on Social Computing"
   year: 2026
   type: "journal article"
 
@@ -37,6 +37,15 @@
     pdf: "https://workshop-proceedings.icwsm.org/pdf/2026_42.pdf"
     code: "https://github.com/annatastic/PodChecker"
     scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:MXK_kJrjxJIC"
+
+- title: "Interaction Diversity in News Ecosystems: Accounting for Organizational Structure and Ownership"
+  authors: "Peter Carragher, Kathleen M. Carley"
+  venue: "SBP-BRiMS 2026: International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation"
+  year: 2026
+  type: "conference paper"
+  links:
+    pdf: "https://link.springer.com/chapter/10.1007/978-3-032-40581-4_16"
+    code: "https://github.com/PeterCarragher/news-network-diversity"
 
 - title: "Misinformation Resilient Search Rankings with Webgraph-based Interventions"
   authors: "Peter Carragher, Evan M. Williams, Kathleen M. Carley"
