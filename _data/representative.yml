@@ -34,20 +34,20 @@
     code: "https://github.com/CASOS-IDeaS-CMU/DredgeWords"
     scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:WF5omc3nYNoC"
 
-- title: "Quantifying Memorization and Parametric Response Rates in Retrieval-Augmented Vision-Language Models"
-  authors: "Peter Carragher, Abhinand Jha, R Raghav, Kathleen M. Carley"
-  venue: "L2M2: ACL Workshop on Large Language Model Memorization"
-  year: 2025
-  type: "workshop paper"
-  links:
-    pdf: "https://arxiv.org/abs/2502.13836"
-    scholar: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FxMWswoAAAAJ&citation_for_view=FxMWswoAAAAJ:YsMSGLbcyi4C"
-
-- title: "Interaction Diversity in News Ecosystems: Accounting for Organizational Structure and Ownership"
+- title: "Measuring Organizational Influence on Digital News: An Information-Theoretic Framework for Media Pluralism and Editorial Independence"
   authors: "Peter Carragher, Kathleen M. Carley"
-  venue: "SBP-BRiMS 2026: International Conference on Social Computing, Behavioral-Cultural Modeling and Prediction and Behavior Representation in Modeling and Simulation"
+  venue: "Under review at The Web Conference (WWW) 2027"
   year: 2026
   type: "conference paper"
   links:
-    pdf: "https://link.springer.com/chapter/10.1007/978-3-032-40581-4_16"
-    code: "https://github.com/PeterCarragher/news-network-diversity"
+    pdf: "https://arxiv.org/abs/2610.40172"
+
+- title: "Who Owns Digital News, and Who Gets Cited: Measuring Media Concentration Across 77 Countries and Seven AI Systems"
+  authors: "Peter Carragher, Kathleen M. Carley"
+  venue: "Under review at The Web Conference (WWW) 2027"
+  year: 2026
+  type: "conference paper"
+  links:
+    pdf: "https://arxiv.org/abs/2610.40164"
+    demo: "https://newsmap.petercarragher.com/"
+    data: "https://doi.org/10.5281/zenodo.22782826"
