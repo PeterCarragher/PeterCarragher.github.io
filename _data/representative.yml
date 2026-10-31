@@ -38,7 +38,7 @@
   authors: "Peter Carragher, Kathleen M. Carley"
   venue: "Under review at The Web Conference (WWW) 2027"
   year: 2026
-  type: "conference paper"
+  type: "preprint"
   links:
     pdf: "https://arxiv.org/abs/2610.40172"
 
@@ -46,7 +46,7 @@
   authors: "Peter Carragher, Kathleen M. Carley"
   venue: "Under review at The Web Conference (WWW) 2027"
   year: 2026
-  type: "conference paper"
+  type: "preprint"
   links:
     pdf: "https://arxiv.org/abs/2610.40164"
     demo: "https://newsmap.petercarragher.com/"
