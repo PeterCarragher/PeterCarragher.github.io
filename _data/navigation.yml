@@ -5,8 +5,8 @@ main:
     #url: /index.html#publications
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
   - title: "CV"
     url: /files/cv.pdf
   - title: "NewsGuess"
