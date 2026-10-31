@@ -1,0 +1,3 @@
+[submodule "academic_resume"]
+	path = academic_resume
+	url = https://github.com/PeterCarragher/academic_resume

@@ -1,3 +1,21 @@
+- title: "Measuring Organizational Influence on Digital News: An Information-Theoretic Framework for Media Pluralism and Editorial Independence"
+  authors: "Peter Carragher, Kathleen M. Carley"
+  venue: "Under review at The Web Conference (WWW) 2027"
+  year: 2026
+  type: "conference paper"
+  links:
+    pdf: "https://arxiv.org/abs/2610.40172"
+
+- title: "Who Owns Digital News, and Who Gets Cited: Measuring Media Concentration Across 77 Countries and Seven AI Systems"
+  authors: "Peter Carragher, Kathleen M. Carley"
+  venue: "Under review at The Web Conference (WWW) 2027"
+  year: 2026
+  type: "conference paper"
+  links:
+    pdf: "https://arxiv.org/abs/2610.40164"
+    demo: "https://newsmap.petercarragher.com/"
+    data: "https://doi.org/10.5281/zenodo.22782826"
+
 - title: "Modeling Event-Conditioned Emotional Expression Response with LLM Agents in a Synthetic Social Simulation"
   authors: "Rebecca Marigliano, Peter Carragher, Kathleen M. Carley"
   venue: "Under review at Transactions on Social Computing"
