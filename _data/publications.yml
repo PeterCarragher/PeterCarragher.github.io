@@ -23,8 +23,8 @@
   type: "journal article"
 
 - title: "A Survey on LLMs for Story Generation"
-  authors: "Maria Teleki, Vedangi Bengali, Peter Carragher, Xiangjue Dong, Sai Tejas Janjur, Haoran Liu, Tian Liu, Cong Wang, Ting Liu, Yin Zhang, Frank Shipman, James Caverlee"
-  venue: "Under revision at Transactions on Intelligent Systems and Technology: Special Issue on Story Generation"
+  authors: "Maria Teleki, Xiangjue Dong, Peter Carragher, Vedangi Bengali, Tian Liu, Haoran Liu, Sai Tejas Janjur, Thomas Docog, Stephanie Birkelbach, Oliver Grabner, Cong Wang, Ting Liu, Yin Zhang, Frank Shipman, James Caverlee"
+  venue: "ACM Transactions on Intelligent Systems and Technology (Conditionally Accepted). Extended version of Findings of EMNLP 2025"
   year: 2026
   type: "journal article"
   links:
