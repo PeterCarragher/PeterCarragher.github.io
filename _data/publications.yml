@@ -21,6 +21,8 @@
   venue: "Under review at Transactions on Social Computing"
   year: 2026
   type: "journal article"
+  links:
+    pdf: "https://arxiv.org/abs/2611.31851"
 
 - title: "A Survey on LLMs for Story Generation"
   authors: "Maria Teleki, Xiangjue Dong, Peter Carragher, Vedangi Bengali, Tian Liu, Haoran Liu, Sai Tejas Janjur, Thomas Docog, Stephanie Birkelbach, Oliver Grabner, Cong Wang, Ting Liu, Yin Zhang, Frank Shipman, James Caverlee"
